@@ -1,2 +1,3 @@
-# Portfolio-Version-3
-The third version of my portfolio. Redeployed because of a heroku issue.
+Reponsive Portfolio
+Includes several apps I built as well as team projects I made significant contributions to.
+Built with html, css, bootstrap, javascript, json, & firebase.
